@@ -12,8 +12,6 @@ A portfolio site of me, deployed as github page.
 
 ## Demo
 
-Insert gif or link to demo
-
 https://riyaddecoder.github.io/me/
 ## Screenshots
 
