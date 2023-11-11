@@ -29,6 +29,6 @@ jobs:
       - name: Uploading to ftp
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: sariyad.com
+          server: ftp.sariyad.com
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
